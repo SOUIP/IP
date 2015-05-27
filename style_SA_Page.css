@@ -1,0 +1,117 @@
+/* Colors Def */
+.BlueMain {
+  color: #4d71b1; }
+
+.GreenMain {
+  color: #618b5c; }
+
+.RedMain {
+  color: #e45a4c; }
+
+strong {
+  font-weight: bold; }
+
+#wrapper {
+  margin: 30px auto;
+  width: 733px; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0px; }
+
+h1 {
+  font-size: 2em;
+  font-family: Georgia, serif; }
+
+h2 {
+  font-size: 1.5em;
+  font-family: Georgia, serif; }
+
+h3 {
+  font-size: 1.17em;
+  font-family: Georgia, serif; }
+
+h4{
+    font-size: 1.2em!important;
+}
+
+h5 {
+  font-size: .83em;
+  font-family: Georgia, serif; }
+
+h6 {
+  font-size: .75em;
+  font-family: Georgia, serif; }
+
+/***************************
+*****Study AW Page******
+*****************************/
+.StudyABCountries {
+  background: rgba(0, 0, 0, 0.6);
+  width: 430px;
+  color: white;
+  line-height: 3px;
+  position: absolute;
+  margin-left: 303px;
+  margin-top: 0px;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; }
+  .StudyABCountries a {
+    color: white !important;
+    text-decoration: none; }
+    .StudyABCountries a h4 {
+      color: white; }
+.StudyABCountries h4{
+    margin-bottom: 3px;
+}
+.StudyABCountries_block {
+  display: inline-block;
+  padding: 47px 10px 25px 10px; }
+
+.studyAB_Banner img {
+  width: 733px; }
+
+.slidedown {
+  margin-top: 0px;
+  padding: 10px;
+  background: #2C3E50;
+  color: white;
+  width: 713px;
+  height: auto;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  text-decoration: none;
+  overflow: auto; }
+  .slidedown a {
+    color: white;
+    text-decoration: underline; }
+  .slidedown h3 {
+    color: #CD6306 !important;
+    margin-bottom: 5px !important; }
+  .slidedown p {
+    padding: 0px 0px 15px 0px;
+    color: white;
+    line-height: 20px;
+    width: 300px;
+    display: inline-block; }
+  .slidedown img {
+    width: 400px;
+    float: right;
+    display: block; }
+  .slidedown iframe {
+    float: right; }
+
+p {
+  line-height: 20px;
+  margin-bottom: 10px; }
+
+.linkDisplaying {
+  color: #CD6306 !important; }
+
+.StudyAB_info {
+  background: #d6e2e1;
+  margin: 5px 0px;
+  padding: 5px; }
+
+.galleria-credit {
+  display: none !important; }
+
+#galleria {
+  width: 400px !important; }
